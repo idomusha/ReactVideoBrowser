@@ -4,4 +4,7 @@ npm-debug.log
 
 # IntelliJ
 *.iml
-/.idea
+.idea
+
+# VSCode
+.vscode
