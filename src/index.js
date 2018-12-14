@@ -6,7 +6,7 @@ import SearchBar from './components/search_bar';
 import VideosList from './components/video_list';
 import VideosDetail from './components/video_detail';
 
-const API_KEY = 'AIzaSyAvN9aFp4kzn1W6oz7IgPiiauxHOgaxxzE';
+const API_KEY = 'AIzaSyA72EV_TbeHnlyhdx6k4kz6WcXWLNtx0iY';
 
 // create a new component. This component should produce some HTML
 class App extends Component {
@@ -17,7 +17,7 @@ class App extends Component {
       videos: [],
       selectedVideo: null
     };
-    this.videoSearch('robot');
+    this.videoSearch('dumb cat');
 
   }
 
